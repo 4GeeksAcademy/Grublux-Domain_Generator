@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.inner {
+  background-color: rgba(86, 86, 72, 0.104);
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
